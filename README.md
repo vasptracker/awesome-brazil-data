@@ -12,9 +12,9 @@
 
 ## Contributing
 
-<img src="images/us-icon.png" height=20> Click on the [README.md](README.md) file and on the :pencil2: button for editing it. Please don't hesitate to [open an issue](https://github.com/juliohm/awesome-brazil-data/issues) if you have any questions. Give a star to the project and share it with your friends if possible.
+<img src="images/us-icon.png" height=20> Click on the [README.md](README.md) file and on the :pencil2: button for editing it. Please don't hesitate to [open an issue](https://github.com/juliohm/awesome-brazil-data/issues) if you have any questions. **Please avoid submissions if they are paid services or third-party APIs to official data provided by the government.** Give a star to the project and share it with your friends if possible.
 
-<img src="images/brazil-icon.png" height=20> Clique no arquivo [README.md](README.md) e no botão :pencil2: para editá-lo. Não deixe de [abrir um issue](https://github.com/juliohm/awesome-brazil-data/issues) caso tenha qualquer pergunta. Se possível, dê uma estrela ao projeto e compartilhe com amigos.
+<img src="images/brazil-icon.png" height=20> Clique no arquivo [README.md](README.md) e no botão :pencil2: para editá-lo. Não deixe de [abrir um issue](https://github.com/juliohm/awesome-brazil-data/issues) caso tenha qualquer pergunta. **Por favor evite submissões se forem serviços pagos ou APIs terceirizadas de dados oficiais disponibilizados pelo governo.** Se possível, dê uma estrela ao projeto e compartilhe com amigos.
 
 ## License
 
