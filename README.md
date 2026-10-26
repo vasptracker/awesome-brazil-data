@@ -89,6 +89,7 @@ To the extent possible under law, all contributors have waived all copyright and
 - [DeBRief.jl](https://github.com/dantebertuzzi/DeBRief.jl) &mdash; Estatísticas de crime e violência publicadas pelo ministério da justiça e segurança pública (Julia).
 - [logos-bancos-br](https://github.com/rzmt/logos-bancos-br) &mdash; Logos de instituições financeiras do Brasil (JavaScript).
 - [stackin-io/data-source](https://github.com/stackin-io/data-source) &mdash; Publicações oficiais dos documentos fiscais eletrônicos brasileiros.
+- [vasptracker-data](https://github.com/vasptracker/vasptracker-data) &mdash; Plataformas de criptoativos que atendem o Brasil e sua situação nos dados abertos de autorização do Banco Central (SPSAV), com processos, série mensal e fonte por linha (CSV/JSON, CC BY 4.0).
 
 ## Acre
 
